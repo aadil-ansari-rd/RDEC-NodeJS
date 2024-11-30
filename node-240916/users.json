@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "first_name": "Mar",
+        "last_name": "Paulin",
+        "email": "mpaulin0@vkontakte.ru",
+        "gender": "Male"
+    },
+    {
+        "id": 2,
+        "first_name": "Lorelei",
+        "last_name": "Kingaby",
+        "email": "lkingaby1@noaa.gov",
+        "gender": "Female"
+    },
+    {
+        "id": 3,
+        "first_name": "Godfrey",
+        "last_name": "Buey",
+        "email": "gbuey2@merriam-webster.com",
+        "gender": "Male"
+    },
+    {
+        "id": 4,
+        "first_name": "Lulu",
+        "last_name": "Bollom",
+        "email": "lbollom3@bloomberg.com",
+        "gender": "Female"
+    },
+    {
+        "id": 5,
+        "first_name": "Yolane",
+        "last_name": "Caldeiro",
+        "email": "ycaldeiro4@wp.com",
+        "gender": "Female"
+    },
+    {
+        "id": 6,
+        "first_name": "Ramon",
+        "last_name": "Connachan",
+        "email": "rconnachan5@github.com",
+        "gender": "Genderfluid"
+    },
+    {
+        "id": 7,
+        "first_name": "Annaliese",
+        "last_name": "Crumby",
+        "email": "acrumby6@wunderground.com",
+        "gender": "Female"
+    },
+    {
+        "id": 8,
+        "first_name": "Bevan",
+        "last_name": "McEnteggart",
+        "email": "bmcenteggart7@themeforest.net",
+        "gender": "Non-binary"
+    },
+    {
+        "id": 9,
+        "first_name": "Germaine",
+        "last_name": "Strahan",
+        "email": "gstrahan8@barnesandnoble.com",
+        "gender": "Male"
+    },
+    {
+        "id": 10,
+        "first_name": "Vere",
+        "last_name": "Merwede",
+        "email": "vmerwede9@columbia.edu",
+        "gender": "Polygender"
+    }
+]
