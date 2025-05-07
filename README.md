@@ -1,4 +1,3 @@
-
 # 📘 Node.js Practice Repository
 
 This repository contains structured practice files and mini-projects created while learning **Node.js** and **HTML**. Each folder represents either a specific topic or a date-based session log to help track learning progress.
