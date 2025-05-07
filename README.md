@@ -47,29 +47,6 @@ This repository contains structured practice files and mini-projects created whi
 - HTML & CSS (in the `html/` folder)
 - File system modules and native Node features
 
----
-
-## 🚀 How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/aadil-ansari-rd/your-repo-name.git
-   cd your-repo-name
-   ````
-
-2. Navigate to any folder (e.g.):
-
-   ```bash
-   cd node-240911
-   ```
-
-3. Run the Node.js file:
-
-   ```bash
-   node index.js
-   ```
-
-   > Or the corresponding file based on folder contents.
 
 ---
 
